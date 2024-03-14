@@ -4,7 +4,7 @@
   <br/>
   <p>🔭 I’m currently studying at Telkom University</p>
   <p>🌱 I’m currently learning Redhat, Flutter, Docker</p>
-  <p>💬 Ask me about Redhat RHCSA, Electron, Flutter... or anything <a href="https://github.com/termaulmaul/termaulmaul/issues">here</a></p>
+  <p>💬 Ask me about Redhat RHCSA, Electron, Flutter.. or anything <a href="https://github.com/termaulmaul/termaulmaul/issues">here</a></p>
   <p>⚡ Fun fact: Make sure to visit Banda Neira before you pass away.</p>
 </div>
 
